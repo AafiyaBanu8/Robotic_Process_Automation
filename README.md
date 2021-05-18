@@ -11,4 +11,6 @@ Topics are:
    Notepad Automation
    Word Automation
    Excel Automation
+   Data Scraping
+   Some Practice Problems
    
