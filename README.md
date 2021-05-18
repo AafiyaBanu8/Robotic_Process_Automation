@@ -8,4 +8,7 @@ Topics are:
    Pdf Automation
    Email Automation
    Web Automation
+   Notepad Automation
+   Word Automation
+   Excel Automation
    
