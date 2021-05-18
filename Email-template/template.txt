@@ -1,0 +1,3 @@
+Dear {0},
+Your Score for round 1 is {1}.
+You have {2}.
